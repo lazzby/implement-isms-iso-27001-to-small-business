@@ -10,7 +10,7 @@
     },
     "duration": 5,
     "difficulty": "intermediate",
-    "technologies": ["cybersecurity", "ciberseguridad", "isms", "sgsi", "risk assessment", "security policies"],
+    "technologies": ["cybersecurity", "ciberseguridad", "ISMS", "SGSI", "iso27001", "iso-27001"],
     "repository": "https://github.com/breatheco-de/implement-isms-iso-27001-to-small-business",
     "preview": "https://raw.githubusercontent.com/breatheco-de/implement-isms-iso-27001-to-small-business/main/assets/preview-image.png",
     "bugsLink": "https://github.com/breatheco-de/breatheco-de/issues/new"
