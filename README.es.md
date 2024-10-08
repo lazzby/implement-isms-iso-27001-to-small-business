@@ -1,18 +1,18 @@
-# Desarrollando un Sistema de Gestión de Seguridad de la Información (ISMS) Básico para una Organización Pública
+# Desarrollando un Sistema de Gestión de Seguridad de la Información (SGSI) Básico para una Organización Pública
 
 ## 🌱 Cómo Iniciar Este Proyecto
 
-Para comenzar este proyecto, asumirás el rol de consultor en ciberseguridad encargado de implementar un ISMS para una organización pública. Tu objetivo es desarrollar un ISMS básico para garantizar que la organización pueda gestionar y proteger adecuadamente su información. Este proyecto te guiará a través de la definición del alcance, la realización de una evaluación de riesgos, la selección de controles y la documentación de políticas y procedimientos de seguridad. Utiliza las instrucciones y listas de verificación proporcionadas para organizar tu trabajo.
+Para comenzar este proyecto, asumirás el rol de consultor en ciberseguridad encargado de implementar un SGSI para una organización pública. Tu objetivo es desarrollar un SGSI básico para garantizar que la organización pueda gestionar y proteger adecuadamente su información. Este proyecto te guiará a través de la definición del alcance, la realización de una evaluación de riesgos, la selección de controles y la documentación de políticas y procedimientos de seguridad. Utiliza las instrucciones y listas de verificación proporcionadas para organizar tu trabajo.
 
 ## 🔑 Objetivo General
 
-Desarrollar un ISMS fundamental para un escenario de organización pública, asegurando que la organización tenga una estructura formal para la gestión de la seguridad de la información que identifique riesgos, seleccione controles apropiados y mantenga políticas y procedimientos de seguridad efectivos.
+Desarrollar un SGSI fundamental para un escenario de organización pública, asegurando que la organización tenga una estructura formal para la gestión de la seguridad de la información que identifique riesgos, seleccione controles apropiados y mantenga políticas y procedimientos de seguridad efectivos.
 
 ## 📝 Instrucciones
 
 ### Paso 1: Selecciona una Organización Pública
 
-Elige uno de los siguientes tipos de organizaciones públicas para tu proyecto de ISMS:
+Elige uno de los siguientes tipos de organizaciones públicas para tu proyecto de SGSI:
 
 1. Agencias gubernamentales (locales, estatales, nacionales)
 2. Universidades públicas
@@ -26,13 +26,13 @@ Al seleccionar tu organización, considera los siguientes criterios:
 - Relevancia para la seguridad de la información: Las organizaciones que gestionan información sensible son preferibles para una experiencia de aprendizaje más realista.
 - Complejidad: Elige una organización lo suficientemente compleja como para proporcionar una experiencia desafiante, con una combinación de controles físicos, técnicos y administrativos que abordar.
 
-Para desarrollar un Sistema de Gestión de Seguridad de la Información (ISMS) para una organización pública, es crucial elegir una organización que tenga una cantidad sustancial de información accesible públicamente. A continuación, algunos tipos de organizaciones junto con recomendaciones y enlaces a fuentes de información que facilitarán el proyecto de ISMS:
+Para desarrollar un Sistema de Gestión de Seguridad de la Información (SGSI) para una organización pública, es crucial elegir una organización que tenga una cantidad sustancial de información accesible públicamente. A continuación, algunos tipos de organizaciones junto con recomendaciones y enlaces a fuentes de información que facilitarán el proyecto de SGSI:
 
 #### Organizaciones o Empresas Públicas Recomendadas:
 
 | Organización | Descripción | Fuentes de Información |
 |--------------|-------------|------------------------|
-| Servicio Postal de los Estados Unidos (USPS) | Organización de servicio público compleja que maneja información sensible de los ciudadanos. Ideal para un ISMS. | [Informes y Publicaciones del USPS](https://about.usps.com/what/financials/) |
+| Servicio Postal de los Estados Unidos (USPS) | Organización de servicio público compleja que maneja información sensible de los ciudadanos. Ideal para un SGSI. | [Informes y Publicaciones del USPS](https://about.usps.com/what/financials/) |
 | Instituto Nacional de Estándares y Tecnología (NIST) | Proporciona numerosos recursos para la transparencia pública, incluidas directrices de evaluación de riesgos y políticas. | [Información Pública del NIST](https://www.nist.gov/publications) |
 | Sistema de la Universidad de California | Sistema universitario público con documentos accesibles sobre estándares de ciberseguridad, políticas de privacidad y gestión de riesgos. | [Oficina de Seguridad de la Información de la Universidad de California](https://security.ucop.edu/) |
 | NYC Health + Hospitals | Maneja amplios datos de pacientes con informes anuales disponibles, informes financieros y estrategias de seguridad de TI. | [Publicaciones de NYC Health + Hospitals](https://www.nychealthandhospitals.org/publications-reports/) |
@@ -42,11 +42,11 @@ Para desarrollar un Sistema de Gestión de Seguridad de la Información (ISMS) p
 | Organización Mundial de la Salud (OMS) | Documentos disponibles públicamente relacionados con políticas de privacidad y ciberseguridad, junto con informes anuales sobre infraestructura de TI. | [Publicaciones de la OMS](https://www.who.int/publications) |
 | UNICEF | Publica informes anuales, estados financieros y políticas de ciberseguridad y privacidad. | [Informes y Datos de UNICEF](https://www.unicef.org/reports) |
 
-Estas organizaciones tienen información extensa en sus sitios web públicos, lo que te ayudará a reunir los datos necesarios para el ISMS, realizar una evaluación de riesgos, seleccionar controles y crear políticas y procedimientos apropiados. Déjame saber si necesitas más detalles o orientación sobre pasos específicos del proyecto ISMS.
+Estas organizaciones tienen información extensa en sus sitios web públicos, lo que te ayudará a reunir los datos necesarios para el SGSI, realizar una evaluación de riesgos, seleccionar controles y crear políticas y procedimientos apropiados. Déjame saber si necesitas más detalles o orientación sobre pasos específicos del proyecto SGSI.
 
 ### Paso 2: Definición del Alcance
 
-Define el alcance del ISMS para establecer los límites de lo que necesita ser asegurado.
+Define el alcance del SGSI para establecer los límites de lo que necesita ser asegurado.
 
 - [ ] **Identificar Activos de Información**
 
@@ -56,15 +56,15 @@ Identifica y clasifica los activos según su importancia para las operaciones (p
 
 - [ ] **Definir Límites Físicos**
 
-Determina qué ubicaciones físicas están incluidas en el ISMS (por ejemplo, oficinas, centros de datos, campus).
+Determina qué ubicaciones físicas están incluidas en el SGSI (por ejemplo, oficinas, centros de datos, campus).
 
 Identifica áreas que necesitan acceso restringido (por ejemplo, salas de servidores, laboratorios de investigación).
 
 - [ ] **Definir Límites Virtuales**
 
-Identifica redes, entornos en la nube y máquinas virtuales que están incluidas en el ISMS.
+Identifica redes, entornos en la nube y máquinas virtuales que están incluidas en el SGSI.
 
-Especifica qué sistemas y tipos de datos están bajo el control del ISMS.
+Especifica qué sistemas y tipos de datos están bajo el control del SGSI.
 
 - [ ] **Identificación de las Partes Interesadas**
 
@@ -72,9 +72,9 @@ Identifica a las partes interesadas clave (por ejemplo, equipo de TI, gestión, 
 
 Asigna responsabilidades a cada parte interesada para las actividades de seguridad de la información.
 
-- [ ] **Documentar el Alcance del ISMS**
+- [ ] **Documentar el Alcance del SGSI**
 
-Documenta el propósito del ISMS, incluyendo su alcance, metas y objetivos.
+Documenta el propósito del SGSI, incluyendo su alcance, metas y objetivos.
 
 Especifica cualquier limitación o exclusión.
 
@@ -184,21 +184,21 @@ Asegúrate de que todas las políticas y procedimientos sean revisados y aprobad
 
 Establece un cronograma para revisiones y actualizaciones periódicas de los documentos.
 
-### Paso 6: Preparar Manual de ISMS
+### Paso 6: Preparar Manual de SGSI
 
-Compila toda la documentación en un manual del ISMS.
+Compila toda la documentación en un manual del SGSI.
 
 - [ ] **Organizar Documentación**
 
 Compila todas las políticas, procedimientos, evaluaciones de riesgos y documentación de controles en un manual estructurado.
 
-Incluye una visión general del ISMS, su alcance y objetivos.
+Incluye una visión general del SGSI, su alcance y objetivos.
 
 - [ ] **Definir Roles y Responsabilidades**
 
-Define claramente los roles y responsabilidades para el mantenimiento y mejora del ISMS.
+Define claramente los roles y responsabilidades para el mantenimiento y mejora del SGSI.
 
-Incluye una sección sobre el compromiso del liderazgo con el ISMS.
+Incluye una sección sobre el compromiso del liderazgo con el SGSI.
 
 - [ ] **Documentar la Metodología de Evaluación de Riesgos**
 
@@ -208,17 +208,17 @@ Incluye plantillas o formularios utilizados en el proceso de evaluación de ries
 
 - [ ] **Describir Monitoreo y Medición**
 
-Define cómo se monitoreará y medirá la efectividad del ISMS.
+Define cómo se monitoreará y medirá la efectividad del SGSI.
 
 Incluye indicadores clave de rendimiento (KPIs) para la seguridad de la información.
 
-### Paso 7: Revisar y Presentar el ISMS
+### Paso 7: Revisar y Presentar el SGSI
 
-Realiza una revisión de tu ISMS y prepara una presentación para las partes interesadas.
+Realiza una revisión de tu SGSI y prepara una presentación para las partes interesadas.
 
-- [ ] **Revisar el ISMS**
+- [ ] **Revisar el SGSI**
 
-Revisa todos los componentes del ISMS para asegurar que estén alineados con el alcance y objetivos definidos.
+Revisa todos los componentes del SGSI para asegurar que estén alineados con el alcance y objetivos definidos.
 
 Verifica que todos los riesgos hayan sido evaluados y mitigados adecuadamente.
 
@@ -226,7 +226,7 @@ Asegúrate de que todas las políticas y procedimientos de seguridad estén docu
 
 - [ ] **Preparar Presentación**
 
-Desarrolla una presentación que resuma el alcance del ISMS, los hallazgos de la evaluación de riesgos, los controles seleccionados y las políticas de seguridad.
+Desarrolla una presentación que resuma el alcance del SGSI, los hallazgos de la evaluación de riesgos, los controles seleccionados y las políticas de seguridad.
 
 Destaca los riesgos clave y las medidas tomadas para mitigarlos.
 
@@ -234,7 +234,7 @@ Identifica áreas de mejora futura y monitoreo continuo.
 
 - [ ] **Presentar a las Partes Interesadas**
 
-Presenta el ISMS a las partes interesadas clave (por ejemplo, dirección, equipo de TI, jefes de departamento).
+Presenta el SGSI a las partes interesadas clave (por ejemplo, dirección, equipo de TI, jefes de departamento).
 
 Recoge retroalimentación y realiza los ajustes necesarios según sus aportes.
 
@@ -242,11 +242,11 @@ Recoge retroalimentación y realiza los ajustes necesarios según sus aportes.
 
 Un informe detallado que incluya:
 
-- Alcance definido del ISMS para la organización pública seleccionada (en formato PDF, aproximadamente 1 página).
+- Alcance definido del SGSI para la organización pública seleccionada (en formato PDF, aproximadamente 1 página).
 - Resultados de la evaluación de riesgos (en formato PDF, aproximadamente 2-3 páginas).
 - Lista de controles seleccionados (en formato PDF o hoja de cálculo, 2-3 páginas o equivalente).
 - Políticas y procedimientos de seguridad (en formato Word o PDF, aproximadamente 5-6 páginas).
-- Manual del ISMS (en formato Word o PDF, aproximadamente 15-20 páginas).
-- Un archivo de presentación que resuma tu enfoque del ISMS, hallazgos y recomendaciones (en formato PowerPoint o PDF, 8-10 diapositivas).
+- Manual del SGSI (en formato Word o PDF, aproximadamente 15-20 páginas).
+- Un archivo de presentación que resuma tu enfoque del SGSI, hallazgos y recomendaciones (en formato PowerPoint o PDF, 8-10 diapositivas).
 
 Recuerda pensar de manera crítica sobre cada paso y hacer suposiciones razonables cuando te enfrentes a brechas de información. Este proyecto te ayudará a desarrollar habilidades prácticas en evaluación de riesgos, desarrollo de políticas y aplicación de un enfoque basado en riesgos a la seguridad de la información en el contexto del sector público.
