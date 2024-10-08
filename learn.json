@@ -1,0 +1,18 @@
+{
+    "title": {
+        "us": "Developing a Basic Information Security Management System (ISMS) for a Public Organization",
+        "es": "Desarrollo de un Sistema Básico de Gestión de Seguridad de la Información (SGSI) para una Organización Pública"
+    },
+    "slug": "basic-isms-public-organization",
+    "description": {
+        "us": "This project guides students through the process of developing a foundational Information Security Management System (ISMS) for a public organization. Students will define the scope, conduct a risk assessment, select appropriate controls, and document security policies and procedures. The project aims to develop practical skills in risk assessment, policy development, and applying a risk-based approach to information security in a public sector context.",
+        "es": "Este proyecto guía a los estudiantes a través del proceso de desarrollo de un Sistema de Gestión de Seguridad de la Información (SGSI) básico para una organización pública. Los estudiantes definirán el alcance, realizarán una evaluación de riesgos, seleccionarán controles apropiados y documentarán políticas y procedimientos de seguridad. El proyecto tiene como objetivo desarrollar habilidades prácticas en evaluación de riesgos, desarrollo de políticas y aplicación de un enfoque basado en riesgos para la seguridad de la información en el contexto del sector público."
+    },
+    "duration": 5,
+    "difficulty": "intermediate",
+    "technologies": ["cybersecurity", "ciberseguridad", "isms", "sgsi", "risk assessment", "security policies"],
+    "repository": "https://github.com/breatheco-de/implement-isms-iso-27001-to-small-business",
+    "preview": "https://raw.githubusercontent.com/breatheco-de/implement-isms-iso-27001-to-small-business/main/assets/preview-image.png",
+    "bugsLink": "https://github.com/breatheco-de/breatheco-de/issues/new"
+}
+
