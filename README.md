@@ -2,7 +2,7 @@
 # Developing a Basic Information Security Management System (ISMS) for a Public Organization
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to Start This Project
 
