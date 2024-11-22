@@ -2,7 +2,7 @@
 # Desarrollando un Sistema de Gestión de Seguridad de la Información (SGSI) Básico para una Organización Pública
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 ## 🌱 Cómo Iniciar Este Proyecto
 
 Para comenzar este proyecto, asumirás el rol de consultor en ciberseguridad encargado de implementar un SGSI para una organización pública. Tu objetivo es desarrollar un SGSI básico para garantizar que la organización pueda gestionar y proteger adecuadamente su información. Este proyecto te guiará a través de la definición del alcance, la realización de una evaluación de riesgos, la selección de controles y la documentación de políticas y procedimientos de seguridad. Utiliza las instrucciones y listas de verificación proporcionadas para organizar tu trabajo.
