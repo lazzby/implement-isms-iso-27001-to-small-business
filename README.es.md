@@ -1,4 +1,6 @@
+<!-- hide -->
 # Desarrollando un Sistema de Gestión de Seguridad de la Información (SGSI) Básico para una Organización Pública
+<!-- endhide -->
 
 ## 🌱 Cómo Iniciar Este Proyecto
 

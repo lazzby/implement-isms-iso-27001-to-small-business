@@ -1,4 +1,6 @@
+<!-- hide -->
 # Developing a Basic Information Security Management System (ISMS) for a Public Organization
+<!-- endhide -->
 
 ## 🌱 How to Start This Project
 
