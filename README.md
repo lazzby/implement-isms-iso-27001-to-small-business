@@ -2,8 +2,6 @@
 # Developing a Basic Information Security Management System (ISMS) for a Public Organization
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
-
 ## 🌱 How to Start This Project
 
 To begin this project, you will take the role of a cybersecurity consultant tasked with implementing an ISMS for a public organization. Your goal is to develop a basic ISMS to ensure that the organization can properly manage and secure its information. This project will guide you through defining the scope, conducting a risk assessment, selecting controls, and documenting security policies and procedures. Use the provided instructions and checklists to organize your work.
@@ -11,7 +9,6 @@ To begin this project, you will take the role of a cybersecurity consultant task
 ## 🔑 General Objective
 
 To develop a foundational ISMS for a public organization scenario, ensuring the organization has a formal structure for information security management that identifies risks, selects appropriate controls, and maintains effective security policies and procedures.
-</onlyfor>
 
 ## 📝 Instructions
 
